@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 欢迎来到周宝辉个人主页的
 
-You can use the [editor on GitHub](https://github.com/2756299678/2756299678.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 个人简介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我叫周宝辉，是石家庄铁道大学软件工程的一名学生，来自河北省承德市。我的学习成绩较好，在编写程序时能够独立解决问题，具有一定的编码能力，能够自己开发信息管理系统，学习能力较强，能够自主学习新知识；曾在2015年参加学生会，并于2016年担任学生会宣传部副部长职务，在学生会中协调管理部门的事物，并于同年获得优秀部长称号；于此同时，积极参加学校组织的各项活动及比赛，曾获得网页设计大赛三等奖，微视频大赛三等奖。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2756299678/2756299678.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
